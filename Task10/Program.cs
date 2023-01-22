@@ -22,4 +22,5 @@ int SecondDigitOfNumber()
     int secondDigit2 = secondDigit % 10;
     return secondDigit2;
 }
+
 Console.WriteLine($"вторая цифра числа {number} - {number2}");
